@@ -1,5 +1,5 @@
 # Hi there, I'm Amit Dorwekar 👋
-## 🚀 Jr. DevOps / Cloud Engineer | AWS Certified
+## 🚀 DevOps / Cloud Engineer | AWS Certified
 > Passionate about automation, CI/CD pipelines, and cloud-native infrastructure.
 ---
 ## 🛠️ Tech Stack
