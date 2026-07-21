@@ -1,5 +1,5 @@
 # Hi there, I'm Amit Dorwekar 👋
-## 🚀 DevOps / Cloud Engineer | AWS Certified
+## 🚀 Jr. DevOps / Cloud Engineer | AWS Certified
 > Passionate about automation, CI/CD pipelines, and cloud-native infrastructure.
 ---
 ## 🛠️ Tech Stack
@@ -17,6 +17,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ---
 ## 🔥 Featured Projects
+
 ### 1. 🏗️ End-to-End DevOps Platform ⭐ MEGA PROJECT
 > **Terraform · Ansible · Jenkins · Docker · Kubernetes · Helm · Prometheus · Grafana · AWS**
 - Provisioned AWS infrastructure (VPC, EC2, Subnets, Security Groups) using Terraform with remote state in S3 + DynamoDB
@@ -28,7 +29,20 @@
 🔗 [View Project](https://github.com/amitd1299/end-to-end-devops-platform)
 
 ---
-### 2. 🚀 Multi-Environment CI/CD Pipeline
+
+### 2. ⚖️ Terraform Jenkins AWS Infrastructure with ALB
+> **Terraform · Jenkins · AWS ALB · VPC · EC2 · S3 · DynamoDB**
+- Provisioned production-grade AWS infrastructure with 14 resources using Terraform IaC
+- Configured Application Load Balancer (ALB) across 2 Availability Zones for high availability
+- Set up Target Group with health checks for automated instance monitoring
+- Jenkins CI/CD pipeline triggers Terraform with manual approval gate before apply
+- Remote state management with S3 backend and DynamoDB locking
+
+🔗 [View Project](https://github.com/amitd1299/terraform-jenkins-aws-infra)
+
+---
+
+### 3. 🚀 Multi-Environment CI/CD Pipeline
 > **Jenkins | Docker | AWS EC2 | GitHub Webhooks**
 - Automated pipeline: GitHub Push → Jenkins → Docker Build → Dev → Staging → Production
 - Manual approval gates before Staging & Production deployments
@@ -38,7 +52,8 @@
 🔗 [View Project](https://github.com/amitd1299/flask-docker-app)
 
 ---
-### 3. 🌐 Terraform AWS Infrastructure
+
+### 4. 🌐 Terraform AWS Infrastructure
 > **Terraform | AWS VPC | EC2 | S3 | DynamoDB | Modules**
 - Multi-tier VPC with public/private subnets, IGW, Route Tables
 - Reusable Terraform modules for VPC, EC2, Security Groups
@@ -48,7 +63,8 @@
 🔗 [View Project](https://github.com/amitd1299/terraform-aws-practice)
 
 ---
-### 4. 🔧 Ansible Infrastructure Automation
+
+### 5. 🔧 Ansible Infrastructure Automation
 > **Ansible | AWS EC2 | Docker | Nginx | Configuration Management**
 - Multi-server infrastructure automation using Ansible playbooks
 - Role-based playbook structure for reusable, organized code
@@ -58,7 +74,8 @@
 🔗 [View Project](https://github.com/amitd1299/ansible-infrastructure-automation)
 
 ---
-### 5. 💰 AWS Cost Monitor Pipeline
+
+### 6. 💰 AWS Cost Monitor Pipeline
 > **Jenkins | AWS Billing API | Bash**
 - Automated AWS cost monitoring using Jenkins scheduled pipeline
 - Threshold-based alerting for budget overruns
