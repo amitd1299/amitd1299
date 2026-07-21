@@ -18,7 +18,7 @@
 ---
 ## 🔥 Featured Projects
 
-### 1. 🏗️ End-to-End DevOps Platform ⭐ MEGA PROJECT
+### 1. 🏗️ End-to-End DevOps Platform ⭐
 > **Terraform · Ansible · Jenkins · Docker · Kubernetes · Helm · Prometheus · Grafana · AWS**
 - Provisioned AWS infrastructure (VPC, EC2, Subnets, Security Groups) using Terraform with remote state in S3 + DynamoDB
 - Automated Jenkins + Docker setup on EC2 using Ansible playbooks
