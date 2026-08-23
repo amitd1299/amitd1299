@@ -1,109 +1,248 @@
 Hi there, I'm Amit Dorwekar 👋
+🚀 Junior DevOps / Cloud Engineer | AWS Certified
 
-🚀 Jr. DevOps / Cloud Engineer | AWS Certified
+I'm passionate about DevOps, Cloud Infrastructure, CI/CD automation, containerization, and Kubernetes.
+I enjoy learning by building hands-on projects, troubleshooting real infrastructure problems, and understanding how different DevOps tools work together.
 
-Passionate about automation, CI/CD pipelines, and cloud-native infrastructure.
+## 🛠️ Tech Stack
 
-🛠️ Tech Stack
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### 🔄 DevOps & CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![K3s](https://img.shields.io/badge/K3s-FFC61C?style=for-the-badge&logo=k3s&logoColor=black)
+![Nexus](https://img.shields.io/badge/Nexus_Repository-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-🔥 Featured Projects
+### 📊 Monitoring & Security
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Dependency--Check-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
-**1. ⚙️ Mini Internal Developer Platform (IDP)** 🆕
-Python · Terraform · Kubernetes · Jenkins
+### 💻 Programming & OS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-- Built a CLI tool inspired by Platform Engineering (Backstage-style) that automates infra config generation
-- Single command generates parameterized Terraform, Kubernetes, and Jenkins configs for any new microservice
-- Implemented full service lifecycle — create, list, delete — with template-based architecture
+## 🔥 Featured Projects
 
-🔗 [View Project](https://github.com/amitd1299/mini-idp)
+### 1. 🚀 OpsPilot — End-to-End DevOps CI/CD Platform
+**Python · Jenkins · Docker · Nexus · Kubernetes/K3s · Terraform · AWS EC2**
 
-**2. 🏗️ End-to-End DevOps Platform** ⭐
-Terraform · Ansible · Jenkins · Docker · Kubernetes · Helm · Prometheus · Grafana · AWS
+A hands-on DevOps project built to understand and implement an end-to-end CI/CD workflow.
 
-- Provisioned AWS infrastructure (VPC, EC2, Subnets, Security Groups) using Terraform with remote state in S3 + DynamoDB
-- Automated Jenkins + Docker setup on EC2 using Ansible playbooks
-- Built Jenkins CI/CD pipeline — Docker image build → Docker Hub push → Kubernetes deployment
-- Deployed Flask REST API on Kubernetes with 2 replicas using Helm charts
-- Implemented Prometheus + Grafana monitoring stack with real-time dashboards
+**🔄 CI/CD Flow**
+```
+GitHub
+   ↓
+Jenkins
+   ↓
+Build & Test
+   ↓
+Docker Image
+   ↓
+Nexus Repository
+   ↓
+Kubernetes / K3s
+   ↓
+Rollout Verification
+   ↓
+Application Health Check
+```
 
-🔗 [View Project](https://github.com/amitd1299/end-to-end-devops-platform)
+**What I implemented**
+* Jenkins-based CI/CD pipeline
+* Automated application build and testing
+* Docker image creation
+* Nexus repository integration
+* Kubernetes/K3s deployment
+* Kubernetes rollout verification
+* Application health checks
+* AWS EC2 infrastructure
+* Terraform-based infrastructure configuration
 
-**3. ⚖️ Terraform Jenkins AWS Infrastructure with ALB**
-Terraform · Jenkins · AWS ALB · VPC · EC2 · S3 · DynamoDB
+**🔧 Troubleshooting Experience**
 
-- Provisioned production-grade AWS infrastructure with 14 resources using Terraform IaC
-- Configured Application Load Balancer (ALB) across 2 Availability Zones for high availability
-- Set up Target Group with health checks for automated instance monitoring
-- Jenkins CI/CD pipeline triggers Terraform with manual approval gate before apply
-- Remote state management with S3 backend and DynamoDB locking
+During development I worked through real issues involving:
+* Jenkins workspace permissions
+* Git checkout and authentication
+* Jenkins Pipeline syntax
+* Docker image handling
+* Nexus connectivity
+* Kubernetes image pulling
+* K3s/containerd troubleshooting
+* NodePort and external access
+* EC2 connectivity and recovery
 
-🔗 [View Project](https://github.com/amitd1299/terraform-jenkins-aws-infra)
+🔗 [View OpsPilot](https://github.com/amitd1299/opspilot)
 
-**4. 🚀 Multi-Environment CI/CD Pipeline**
-Jenkins · Docker · AWS EC2 · GitHub Webhooks
+---
 
-- Automated pipeline: GitHub Push → Jenkins → Docker Build → Dev → Staging → Production
-- Manual approval gates before Staging & Production deployments
-- GitHub Webhook for auto-trigger on every code push
-- 3 Docker containers running on AWS EC2 (ports 5000/5001/5002)
+### 2. 🔐 3-Tier Java CI/CD Pipeline — Jenkins, SonarQube & Nexus
+**Java · Jenkins · SonarQube · Nexus · Docker · AWS EC2 · EKS**
 
-🔗 [View Project](https://github.com/amitd1299/flask-docker-app)
+A hands-on 3-tier DevOps project where Jenkins, SonarQube, and Nexus are set up on separate EC2 instances to build a complete CI/CD pipeline for a Java-based Maven application, including code quality analysis, dependency checks, artifact management, and Kubernetes (EKS) deployment.
 
-<details>
-<summary><b>📂 More Projects</b></summary>
+**🔄 CI/CD Flow**
+```
+GitHub
+   ↓
+Jenkins (Build & Pipeline Orchestration)
+   ↓
+SonarQube (Code Quality & Static Analysis)
+   ↓
+OWASP Dependency-Check (Security Scan)
+   ↓
+Maven Build & Test
+   ↓
+Nexus Repository (Artifact Storage)
+   ↓
+Docker Image Build
+   ↓
+Amazon EKS (Deployment)
+```
 
-**5. 🌐 Terraform AWS Infrastructure**
-Terraform · AWS VPC · EC2 · S3 · DynamoDB · Modules
+**What I implemented**
+* Provisioned 3 separate EC2 instances (Jenkins, SonarQube, Nexus) on AWS
+* Installed Jenkins with required plugins (SonarQube Scanner, Nexus Artifact Uploader, Docker, Docker Pipeline, OWASP Dependency-Check, Eclipse Temurin, Pipeline Maven Integration)
+* Configured global tools in Jenkins (JDK 17, Maven, Dependency-Check, Docker)
+* Ran SonarQube and Nexus via Docker containers
+* Integrated Jenkins with SonarQube using authentication tokens for automated code quality gates
+* Integrated Jenkins with Nexus via Maven `settings.xml` and repository credentials for artifact publishing
+* Configured `pom.xml` with Nexus repository (release/snapshot) distribution management
+* Set up an EKS cluster for application deployment
 
-- Multi-tier VPC with public/private subnets, IGW, Route Tables
-- Reusable Terraform modules for VPC, EC2, Security Groups
-- Remote state management with S3 backend + DynamoDB locking
-- Variables, Outputs, and workspace-ready structure
+**🔧 Troubleshooting Experience**
+* Jenkins plugin and tool version compatibility
+* Docker container access and permission issues
+* SonarQube-Jenkins token authentication
+* Nexus repository credential and URL mismatches
+* Maven `settings.xml` server ID mapping
+* Security group/port configuration across 3 instances (8080, 9000, 8081)
+
+🔗 View Project *(add repo link here)*
+
+---
+
+### 3. 🏗️ DevOps Infrastructure & CI/CD Practice
+**Terraform · AWS · Jenkins · Docker · Kubernetes · Ansible**
+
+Hands-on practice projects focused on building and automating cloud infrastructure and CI/CD workflows.
+
+**Key areas practiced**
+* AWS VPC and networking
+* EC2 infrastructure
+* Security Groups
+* Terraform infrastructure provisioning
+* Jenkins CI/CD pipelines
+* Docker containerization
+* Kubernetes deployments
+* Ansible automation
+* Monitoring with Prometheus and Grafana
+
+---
+
+### 4. ☁️ Terraform AWS Infrastructure
+**Terraform · AWS VPC · EC2 · S3 · DynamoDB**
+
+Infrastructure-as-Code practice focused on provisioning AWS resources using Terraform.
+
+**Key areas**
+* VPC configuration
+* Public/private networking
+* EC2 provisioning
+* Security Groups
+* Terraform variables and outputs
+* Reusable infrastructure structure
+* Remote state concepts
 
 🔗 [View Project](https://github.com/amitd1299/terraform-aws-practice)
 
-**6. 🔧 Ansible Infrastructure Automation**
-Ansible · AWS EC2 · Docker · Nginx · Configuration Management
+---
 
-- Multi-server infrastructure automation using Ansible playbooks
-- Role-based playbook structure for reusable, organized code
-- Automated Nginx and Docker installation on remote AWS EC2 servers
-- Demonstrates idempotency — safe to run multiple times
+### 5. 🔧 Ansible Infrastructure Automation
+**Ansible · AWS EC2 · Docker · Nginx**
+
+Hands-on configuration-management practice using Ansible.
+
+**Key areas**
+* Remote server configuration
+* Role-based playbooks
+* Docker installation automation
+* Nginx configuration
+* Idempotent automation
+* Reusable Ansible roles
 
 🔗 [View Project](https://github.com/amitd1299/ansible-infrastructure-automation)
 
-**7. 💰 AWS Cost Monitor Pipeline**
-Jenkins · AWS Billing API · Bash
+---
 
-- Automated AWS cost monitoring using Jenkins scheduled pipeline
-- Threshold-based alerting for budget overruns
+### 6. 🚀 Multi-Environment CI/CD Pipeline
+**Jenkins · Docker · AWS EC2 · GitHub**
 
-🔗 [View Project](https://github.com/amitd1299/aws-cost-monitor-jenkins)
+Practice project focused on understanding CI/CD promotion across multiple environments.
 
-</details>
+**Pipeline concept**
+```
+GitHub
+   ↓
+Jenkins
+   ↓
+Docker Build
+   ↓
+Development
+   ↓
+Staging
+   ↓
+Production
+```
 
-🏆 Certification
+**Key areas**
+* Jenkins pipelines
+* Docker builds
+* GitHub webhooks
+* Environment-based deployments
+* Manual approval gates
+* AWS EC2 deployments
 
-AWS Certified Solutions Architect – Associate
+🔗 [View Project](https://github.com/amitd1299/flask-docker-app)
 
-📊 GitHub Stats
+## 🏆 Certification
+**AWS Certified Solutions Architect – Associate**
+
+## 📊 GitHub Stats
 
 ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitd1299&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitd1299&layout=compact)
 
-📫 Connect With Me
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-dorwekar/)
+[![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/amitdorwekar)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amitd1299)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dorwekar2000@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-dorwekar-6a33a8393/)
-[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/amitdorwekar)
+## 🎯 Currently Learning
+* Advanced AWS
+* Jenkins CI/CD
+* Kubernetes
+* Terraform
+* Docker
+* Monitoring & Observability
+* Cloud & DevOps best practices
 
-⭐ Open to DevOps/Cloud Engineer roles | Pune, India | Open to relocation
