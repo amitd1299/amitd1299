@@ -43,52 +43,13 @@ I enjoy learning by building hands-on projects, troubleshooting real infrastruct
 ## 🔥 Featured Projects
 
 ### 1. 🚀 OpsPilot — End-to-End DevOps CI/CD Platform
-**Python · Jenkins · Docker · Nexus · Kubernetes/K3s · Terraform · AWS EC2**
+**Technologies: AWS EC2, Jenkins, GitHub, Docker, Nexus Repository, Kubernetes/K3s, Terraform, Python**
 
-A hands-on DevOps project built to understand and implement an end-to-end CI/CD workflow.
-
-**🔄 CI/CD Flow**
-```
-GitHub
-   ↓
-Jenkins
-   ↓
-Build & Test
-   ↓
-Docker Image
-   ↓
-Nexus Repository
-   ↓
-Kubernetes / K3s
-   ↓
-Rollout Verification
-   ↓
-Application Health Check
-```
-
-**What I implemented**
-* Jenkins-based CI/CD pipeline
-* Automated application build and testing
-* Docker image creation
-* Nexus repository integration
-* Kubernetes/K3s deployment
-* Kubernetes rollout verification
-* Application health checks
-* AWS EC2 infrastructure
-* Terraform-based infrastructure configuration
-
-**🔧 Troubleshooting Experience**
-
-During development I worked through real issues involving:
-* Jenkins workspace permissions
-* Git checkout and authentication
-* Jenkins Pipeline syntax
-* Docker image handling
-* Nexus connectivity
-* Kubernetes image pulling
-* K3s/containerd troubleshooting
-* NodePort and external access
-* EC2 connectivity and recovery
+* Built an end-to-end CI/CD pipeline integrating GitHub, Jenkins, Docker, Nexus, and Kubernetes/K3s for automated application deployment.
+* Automated build, testing, Docker image creation, Nexus image push, Kubernetes deployment, rollout verification, and application health checks.
+* Provisioned and managed AWS EC2 infrastructure and practiced infrastructure configuration using Terraform.
+* Troubleshot real-world issues involving Jenkins workspace permissions, Git authentication, Docker/K3s image handling, Nexus connectivity, Kubernetes image pulls, K3s/containerd, NodePort networking, and EC2 recovery.
+* Deployed a Python Flask application on Kubernetes and verified successful application health through a live endpoint.
 
 🔗 [View OpsPilot](https://github.com/amitd1299/opspilot)
 
