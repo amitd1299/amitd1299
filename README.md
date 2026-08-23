@@ -45,7 +45,7 @@ I enjoy learning by building hands-on projects, troubleshooting real infrastruct
 ### 1. 🚀 OpsPilot — End-to-End DevOps CI/CD Platform
 **Python · Jenkins · Docker · Nexus · Kubernetes/K3s · Terraform · AWS EC2**
 
-A hands-on DevOps project built to understand and implement an end-to-end CI/CD workflow — not just a "Jenkins project," but real, practical exposure across the full toolchain: Git → Jenkins → Docker → Nexus → Kubernetes/K3s → AWS → Terraform, including real troubleshooting and EC2 recovery.
+A hands-on DevOps project built to understand and implement an end-to-end CI/CD workflow.
 
 **🔄 CI/CD Flow**
 ```
@@ -57,89 +57,38 @@ Build & Test
    ↓
 Docker Image
    ↓
-Nexus
+Nexus Repository
    ↓
-K3s / Kubernetes
+Kubernetes / K3s
    ↓
-NodePort
+Rollout Verification
    ↓
-Application
-   ↓
-Health Check
+Application Health Check
 ```
 
-**🧩 What I built**
+**What I implemented**
+* Jenkins-based CI/CD pipeline
+* Automated application build and testing
+* Docker image creation
+* Nexus repository integration
+* Kubernetes/K3s deployment
+* Kubernetes rollout verification
+* Application health checks
+* AWS EC2 infrastructure
+* Terraform-based infrastructure configuration
 
-**1. Application**
-* Built a Python Flask backend
-* Added application and health-check endpoints
-* Verified the live application response
+**🔧 Troubleshooting Experience**
 
-**2. GitHub**
-* Managed the source code in GitHub
-* Created the project structure with `backend`, `k8s`, `terraform`, and `Jenkinsfile`
-* Worked through Git checkout/authentication issues
-
-**3. Jenkins CI/CD**
-* Installed and configured Jenkins on AWS EC2
-* Connected GitHub with Jenkins
-* Created and modified the Jenkins pipeline
-* Automated build, testing, Docker image creation, Nexus push, and Kubernetes deployment
-* Fixed Jenkins workspace permission and pipeline syntax issues
-* Successfully executed Jenkins builds
-
-**4. Docker**
-* Created the application Docker image
-* Learned and handled the difference between Docker's image storage and K3s/containerd's image storage
-* Imported the image into K3s when Kubernetes couldn't pull it
-
-**5. Nexus Repository**
-* Integrated Nexus with the Jenkins pipeline
-* Pushed the Docker image to Nexus
-* Troubleshot Nexus connectivity and image handling
-
-**6. Kubernetes / K3s**
-* Installed and configured K3s on EC2
-* Deployed the application to Kubernetes
-* Troubleshot `ErrImagePull`
-* Imported the image into containerd
-* Got the application pods running
-* Troubleshot Traefik and Kubernetes networking
-* Verified the rollout and application health
-
-**7. AWS & Networking**
-* Used EC2 as the infrastructure for Jenkins/K3s
-* Configured Security Groups
-* Worked with NodePort and external application access
-* Tested the application from outside the instance
-
-**8. Terraform**
-* Created Terraform configuration for AWS infrastructure
-* Validated and applied the Terraform configuration
-* Practiced infrastructure provisioning through IaC
-
-**🔧 Real Troubleshooting Experience**
-
-This was probably the most valuable part:
-* K3s crashes and restarts
-* containerd connection errors
-* etcd/TLS timeout issues
-* K3s IP repair controller failure
-* Disk/partition investigation and root partition resizing
-* Jenkins workspace problems
-* Kubernetes image-pull problems
-* EC2 SSH connectivity problems
-
-**🩹 EC2 Recovery**
-
-When the EC2 instance became difficult to access, I also worked through an actual disaster-recovery process:
-* Created EBS snapshots
-* Launched a recovery instance and attached the original root volume
-* Mounted the volume under `/mnt/opspilot`
-* Recovered and inspected Jenkins workspace files
-* Verified the Jenkinsfile and backend code
-* Checked Jenkins build history and `authorized_keys`
-* Created a new volume from the snapshot and worked through root-volume recovery/replacement
+During development I worked through real issues involving:
+* Jenkins workspace permissions
+* Git checkout and authentication
+* Jenkins Pipeline syntax
+* Docker image handling
+* Nexus connectivity
+* Kubernetes image pulling
+* K3s/containerd troubleshooting
+* NodePort and external access
+* EC2 connectivity and recovery
 
 🔗 [View OpsPilot](https://github.com/amitd1299/opspilot)
 
