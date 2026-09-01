@@ -12,11 +12,19 @@
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=1000" width="100%">
+</div>
 
 ### 👋 About Me
 
-DevOps / Cloud Engineer who learns by **building and breaking real infrastructure**. Over the past few months I've shipped **7+ hands-on DevOps projects** — end-to-end CI/CD pipelines, containerized Java applications, Infrastructure-as-Code with Terraform, and configuration management with Ansible — each one built from scratch on real AWS environments and pushed through actual troubleshooting, not just tutorials.
+<div align="center">
+
+> *DevOps / Cloud Engineer who learns by building and breaking real infrastructure.*
+
+</div>
+
+I design and ship **production-style DevOps solutions** — end-to-end CI/CD pipelines, containerized Java applications, Infrastructure-as-Code with Terraform, and configuration management with Ansible. Every project is built from scratch on real AWS environments and pressure-tested through genuine troubleshooting, not just tutorials — because that's where the real learning happens.
 
 <div align="center">
 
@@ -77,7 +85,9 @@ DevOps / Cloud Engineer who learns by **building and breaking real infrastructur
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=1000" width="100%">
+</div>
 
 ## 🔥 Featured Projects
 
@@ -173,13 +183,17 @@ Key areas: Jenkins pipelines, Docker builds, GitHub webhooks, environment-based 
 
 🔗 View Project
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=1000" width="100%">
+</div>
 
 ## 🏆 Certification
 
 ![AWS Certified](https://img.shields.io/badge/AWS%20Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=1000" width="100%">
+</div>
 
 ## 📫 Connect With Me
 
