@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=200&section=header&text=Amit%20Dorwekar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20Engineer%20%7C%20AWS%20Certified&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Amit%20Dorwekar&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20Engineer%20%7C%20AWS%20Certified&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Building+CI%2FCD+Pipelines+that+Ship+Fast+%F0%9F%9A%80;Automating+Infrastructure+with+Terraform+%26+Ansible+%E2%9A%99%EF%B8%8F;Deploying+on+Kubernetes+%26+AWS+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=F76B8A,FFD93D,6BCB77,4D96FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Building+CI%2FCD+Pipelines+that+Ship+Fast+%F0%9F%9A%80;Automating+Infrastructure+with+Terraform+%26+Ansible+%E2%9A%99%EF%B8%8F;Deploying+on+Kubernetes+%26+AWS+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </a>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="450">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%">
 
 </div>
 
@@ -14,7 +16,15 @@
 
 ### 👋 About Me
 
-I'm passionate about **DevOps, Cloud Infrastructure, CI/CD automation, containerization, and Kubernetes**. I enjoy learning by building hands-on projects, troubleshooting real infrastructure problems, and understanding how different DevOps tools work together.
+DevOps / Cloud Engineer who learns by **building and breaking real infrastructure**. Over the past few months I've shipped **7+ hands-on DevOps projects** — end-to-end CI/CD pipelines, containerized Java applications, Infrastructure-as-Code with Terraform, and configuration management with Ansible — each one built from scratch on real AWS environments and pushed through actual troubleshooting, not just tutorials.
+
+<div align="center">
+
+![Projects Built](https://img.shields.io/badge/Projects%20Built-6+-6BCB77?style=for-the-badge&logo=rocket&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-CI%2FCD%20%26%20Kubernetes-4D96FF?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+</div>
 
 <br>
 
@@ -171,23 +181,6 @@ Key areas: Jenkins pipelines, Docker builds, GitHub webhooks, environment-based 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amitd1299&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitd1299&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amitd1299&theme=tokyonight&hide_border=true" width="48%"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amitd1299&theme=tokyo-night&hide_border=true" width="90%"/>
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -198,4 +191,4 @@ Key areas: Jenkins pipelines, Docker builds, GitHub webhooks, environment-based 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
