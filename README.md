@@ -1,241 +1,186 @@
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Amit%20Dorwekar&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20Engineer%20%7C%20AWS%20Certified&descAlignY=55&descSize=18" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=F76B8A,FFD93D,6BCB77,4D96FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Building+CI%2FCD+Pipelines+that+Ship+Fast+%F0%9F%9A%80;Automating+Infrastructure+with+Terraform+%26+Ansible+%E2%9A%99%EF%B8%8F;Deploying+on+Kubernetes+%26+AWS+%E2%98%81%EF%B8%8F" alt="Typing SVG" /> </a> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="450"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=1000" width="100%"> </div>
+
+### 👋 About Me
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:000000&height=200&section=header&text=AMIT%20DORWEKAR&fontSize=36&fontColor=00F7FF&animation=fadeIn&fontAlignY=36&desc=DEVOPS%20%26%20CLOUD%20ENGINEER&descAlignY=54&descSize=15&descColor=ffffff" width="100%"/>
+> *DevOps / Cloud Engineer who learns by building and breaking real infrastructure.*
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=700&color=00F7FF&background=00000000&center=true&vCenter=true&width=750&lines=AWS+%7C+DEVOPS+%7C+CLOUD+ENGINEERING;CI%2FCD+%7C+CONTAINERS+%7C+KUBERNETES;AUTOMATION+%7C+INFRASTRUCTURE+AS+CODE;BUILDING+PRODUCTION-STYLE+CLOUD+PLATFORMS;AUTOMATE+%E2%86%92+DEPLOY+%E2%86%92+MONITOR+%E2%86%92+IMPROVE" />
+</div>
 
-<br><br>
+I design and ship **production-style DevOps solutions** — end-to-end CI/CD pipelines, containerized Java applications, Infrastructure-as-Code with Terraform, and configuration management with Ansible. My hands-on work spans **AWS infrastructure, Jenkins automation, Docker, Kubernetes/K3s, Nexus, SonarQube, monitoring, and real-world troubleshooting**. I focus on building complete delivery workflows rather than isolated tools, and I learn by deploying, debugging, recovering, and continuously improving real environments.
 
-<a href="https://github.com/amitd1299">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logoWidth=18&logo=github&logoColor=00F7FF"/>
-</a>
-<a href="https://www.linkedin.com/in/amit-dorwekar">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logoWidth=18&logo=linkedin&logoColor=00A3FF"/>
-</a>
-<img src="https://img.shields.io/badge/AWS-Certified-000000?style=for-the-badge&logoWidth=18&logo=amazonaws&logoColor=FF9900"/>
+<div align="center">
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=3&width=1000"/>
+![Projects Built](https://img.shields.io/badge/Projects%20Built-6+-6BCB77?style=for-the-badge\&logo=rocket\&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-CI%2FCD%20%26%20Kubernetes-4D96FF?style=for-the-badge\&logo=kubernetes\&logoColor=white)
 
 </div>
 
 <br>
 
-# 🧠 ABOUT ME
+## 🛠️ Tech Stack
 
 <div align="center">
 
-> **DevOps / Cloud Engineer who learns by building, breaking and fixing real infrastructure.**
+**☁️ Cloud & Infrastructure**
+
+[AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+[S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+[IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white)
+[VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+[CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+[Systems Manager](https://img.shields.io/badge/Systems%20Manager-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**🔄 DevOps & CI/CD**
+
+[Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+[GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+[Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+[K3s](https://img.shields.io/badge/K3s-FFC61C?style=for-the-badge&logo=k3s&logoColor=black)
+[Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+[containerd](https://img.shields.io/badge/containerd-575757?style=for-the-badge&logo=containerd&logoColor=white)
+[Nexus](https://img.shields.io/badge/Nexus-1A0533?style=for-the-badge&logo=sonatype&logoColor=white)
+[Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+[Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+**📊 Monitoring, Quality & Security**
+
+[Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+[Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+[SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+[Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+[OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+**💻 Programming, Frameworks & OS**
+
+[Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+[Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+[Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+[JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[Shell Scripting](https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+[SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 </div>
 
-I build **production-style DevOps environments** covering the complete application delivery lifecycle — from source control and CI/CD automation to containerization, artifact management, Kubernetes deployment, infrastructure automation and monitoring.
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=1000" width="100%"> </div>
 
-My focus is on:
+## 🔥 Featured Projects
 
-```text
-        CODE
-          ↓
-      AUTOMATION
-          ↓
-       BUILD
-          ↓
-        TEST
-          ↓
-     CODE QUALITY
-          ↓
-     CONTAINERIZE
-          ↓
-       PACKAGE
-          ↓
-       DEPLOY
-          ↓
-      MONITOR
-          ↓
-     TROUBLESHOOT
-          ↓
-      IMPROVE 🚀
-```
+### 1. 🚀 3-Tier Java Application — End-to-End DevOps CI/CD
 
-I prefer **hands-on infrastructure and real troubleshooting** over tutorial-only environments.
+`Java` `Spring Boot` `Maven` `JUnit` `Jenkins` `SonarQube` `Docker` `Nexus` `K3s` `Traefik` `AWS EC2`
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=3&width=1000"/>
-</div>
+A production-style **3-Tier Java application deployment platform** built on AWS EC2, implementing an end-to-end CI/CD workflow from source code to containerized Kubernetes deployment.
 
-<br>
-
-# 🛠️ TECHNOLOGY STACK
-
-## ☁️ CLOUD & INFRASTRUCTURE
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=aws,linux&theme=dark" height="55"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/AWS_EC2-000000?style=for-the-badge&logoWidth=18&logo=amazonec2&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/AWS_IAM-000000?style=for-the-badge&logoWidth=18&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/AWS_VPC-000000?style=for-the-badge&logoWidth=18&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/AWS_S3-000000?style=for-the-badge&logoWidth=18&logo=amazons3&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/AWS_SSM-000000?style=for-the-badge&logoWidth=18&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logoWidth=18&logo=ubuntu&logoColor=E95420"/>
-
-</p>
-
-## 🔄 DEVOPS & CI/CD
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,jenkins,docker,kubernetes,terraform,ansible&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Maven-000000?style=for-the-badge&logoWidth=18&logo=apachemaven&logoColor=C71A36"/>
-<img src="https://img.shields.io/badge/K3s-000000?style=for-the-badge&logoWidth=18&logo=kubernetes&logoColor=FFC61C"/>
-<img src="https://img.shields.io/badge/Traefik-000000?style=for-the-badge&logoWidth=18&logo=traefikmesh&logoColor=24A1C1"/>
-<img src="https://img.shields.io/badge/Nexus-000000?style=for-the-badge&logoWidth=18&logo=sonatype&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/SonarQube-000000?style=for-the-badge&logoWidth=18&logo=sonarqube&logoColor=4E9BCD"/>
-
-</p>
-
-## 📊 MONITORING & OBSERVABILITY
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
-
-<img src="https://img.shields.io/badge/Jenkins_Monitoring-000000?style=for-the-badge&logoWidth=18&logo=jenkins&logoColor=D24939"/>
-<img src="https://img.shields.io/badge/Kubernetes_Monitoring-000000?style=for-the-badge&logoWidth=18&logo=kubernetes&logoColor=326CE5"/>
-<img src="https://img.shields.io/badge/Linux_Monitoring-000000?style=for-the-badge&logoWidth=18&logo=linux&logoColor=FCC624"/>
-
-</p>
-
-## 💻 PROGRAMMING & DEVELOPMENT
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,bash,maven&theme=dark" />
-
-</p>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=3&width=1000"/>
-</div>
-
-<br>
-
-# 🔥 FEATURED PROJECTS
-
-## 🚀 01 — 3-TIER JAVA DEVOPS PLATFORM
-
-### `Java • Spring Boot • Maven • JUnit • Jenkins • SonarQube • Docker • Nexus • K3s • Traefik • AWS`
-
-A complete **3-Tier Java application delivery platform** implemented on AWS EC2 with automated CI/CD.
-
-### ⚙️ ARCHITECTURE
-
-```mermaid
-flowchart TD
-    A[🐙 GitHub] --> B[⚙️ Jenkins<br/>CI/CD Engine]
-    B --> C[📦 Maven]
-    B --> D[🧪 JUnit]
-    B --> E[🔍 SonarQube]
-    C --> F[🐳 Docker<br/>Build Image]
-    F --> G[📥 Nexus<br/>Docker Registry]
-    G --> H[☸️ K3s / Kubernetes]
-    H --> I[🌐 Traefik<br/>Traffic Entry]
-    I --> J[🚀 Java Backend]
-
-    classDef node fill:#0d0d0d,stroke:#00F7FF,stroke-width:1.5px,color:#ffffff,rx:6,ry:6;
-    class A,B,C,D,E,F,G,H,I,J node;
-```
-
-### 🔁 PIPELINE
-
-```text
-GitHub
-  ↓
-Jenkins Checkout
-  ↓
-Maven Build
-  ↓
-JUnit Tests
-  ↓
-SonarQube Analysis
-  ↓
-Docker Build
-  ↓
-Nexus Docker Push
-  ↓
-K3s Deployment
-  ↓
-Traefik
-  ↓
-Deployment Verification
-  ↓
-✅ APPLICATION RUNNING
-```
-
-### 🧩 IMPLEMENTED
-
-* Java-based 3-tier application
-* Jenkins CI/CD pipeline
-* Maven build automation
-* JUnit testing
-* SonarQube code-quality analysis
-* Docker containerization
-* Private Nexus Docker registry
-* Kubernetes/K3s deployment
-* Traefik traffic handling
-* AWS EC2 Ubuntu infrastructure
-* Deployment verification
-* Linux and AWS infrastructure troubleshooting
-
-### 🧯 REAL TROUBLESHOOTING
-
-```text
-ErrImagePull
-      ↓
-Docker Image Investigation
-      ↓
-k3s / containerd Analysis
-      ↓
-Image Import / Availability
-      ↓
-Pod Recovery
-      ↓
-1/1 Running ✅
-```
-
-Also worked through:
-
-`Jenkins` • `Docker` • `Nexus` • `k3s` • `containerd` • `Traefik` • `SSH` • `Security Groups` • `EC2 IP Changes` • `Disk / Partition Management`
-
-### 🔗 PROJECT
-
-**[View 3-Tier Java DevOps Project →](https://github.com/amitd1299/java-3tier-devops)**
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=2&width=1000"/>
-</div>
-
-## 🚀 02 — OPSPILOT
-
-### `AWS • Jenkins • Docker • Nexus • Kubernetes/K3s • Terraform • Python`
-
-An end-to-end **DevOps Control Center** focused on AWS infrastructure, CI/CD automation, container deployment and monitoring.
+**🔄 CI/CD Flow**
 
 ```text
 GitHub
    ↓
 Jenkins
    ↓
-Build + Test
+Maven Build
    ↓
-Docker
+JUnit Tests
+   ↓
+SonarQube Code Quality
+   ↓
+Docker Image Build
+   ↓
+Nexus Docker Registry
+   ↓
+K3s / Kubernetes
+   ↓
+Traefik
+   ↓
+Application 🚀
+```
+
+**🏗️ Infrastructure**
+
+```text
+                    AWS EC2
+                       │
+        ┌──────────────┼──────────────┐
+        │              │              │
+        ▼              ▼              ▼
+    Jenkins        SonarQube        Nexus
+        │              │              │
+        └──────────────┼──────────────┘
+                       │
+                       ▼
+                 K3s Cluster
+                       │
+                       ▼
+                   Traefik
+                       │
+                       ▼
+                Java Application
+```
+
+**What I Implemented**
+
+* Built and deployed a Java/Spring Boot application.
+* Configured Jenkins as the CI/CD automation server.
+* Integrated Maven for application builds.
+* Added JUnit tests to the pipeline.
+* Integrated SonarQube for code-quality analysis.
+* Containerized the application using Docker.
+* Configured Nexus as a private Docker registry.
+* Built and pushed versioned Docker images to Nexus.
+* Deployed the application on Kubernetes/K3s.
+* Configured Traefik for application traffic routing.
+* Verified Kubernetes deployments and application health.
+* Managed the complete environment on AWS EC2 Ubuntu instances.
+
+**🔧 Real Troubleshooting**
+
+```text
+ErrImagePull
+     ↓
+K3s / containerd Investigation
+     ↓
+Docker Image Availability
+     ↓
+Image Import / Registry Validation
+     ↓
+Pod Recovery
+     ↓
+1/1 Running ✅
+```
+
+Additional troubleshooting included:
+
+`Jenkins` • `Docker` • `Nexus` • `K3s` • `containerd` • `Traefik` • `SSH` • `Security Groups` • `EC2 Networking` • `Linux Disk Management`
+
+🔗 **View Project:**
+https://github.com/amitd1299/java-3tier-devops
+
+<br>
+
+### 2. 🚀 OpsPilot — End-to-End DevOps CI/CD Platform
+
+`AWS EC2` `Jenkins` `GitHub` `Docker` `Nexus Repository` `Kubernetes/K3s` `Terraform` `Python`
+
+An end-to-end DevOps platform focused on **automation, infrastructure management, application deployment, monitoring, and operational troubleshooting**.
+
+**Pipeline**
+
+```text
+GitHub
+   ↓
+Jenkins
+   ↓
+Build & Test
+   ↓
+Docker Build
    ↓
 Nexus
    ↓
@@ -243,212 +188,200 @@ Kubernetes / K3s
    ↓
 Deployment
    ↓
-Health Verification
+Rollout Verification
    ↓
-Monitoring
+Health Check ✅
 ```
 
-### Highlights
+**Key Work**
 
-* AWS EC2 infrastructure
-* Jenkins automation
-* Docker image lifecycle
-* Nexus repository integration
-* Kubernetes/K3s deployment
-* Terraform infrastructure
-* Application health checks
-* Infrastructure troubleshooting
-* AWS recovery workflows
+* Automated CI/CD workflows using Jenkins.
+* Managed AWS EC2 infrastructure.
+* Built and managed Docker images.
+* Integrated Nexus for container image storage.
+* Deployed applications on Kubernetes/K3s.
+* Used Terraform for infrastructure automation.
+* Implemented application health verification.
+* Worked with Linux, SSH, and AWS networking.
+* Troubleshot Jenkins, Docker, Nexus, K3s, and containerd issues.
+* Performed EC2 recovery and infrastructure troubleshooting.
 
-### 🔗 PROJECT
+🔗 **View Project:**
+https://github.com/amitd1299/opspilot
 
-**[View OpsPilot →](https://github.com/amitd1299/opspilot)**
+<br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=2&width=1000"/>
-</div>
+### 3. 🏗️ DevOps Infrastructure & CI/CD Practice
 
-## 🏗️ 03 — TERRAFORM + JENKINS AWS INFRASTRUCTURE
+`Terraform` `AWS` `Jenkins` `Docker` `Kubernetes` `Ansible` `Prometheus` `Grafana`
 
-### `Terraform • AWS VPC • EC2 • ALB • S3 • DynamoDB • Jenkins`
+Hands-on DevOps infrastructure work covering the complete lifecycle of cloud infrastructure and application delivery.
 
-Infrastructure-as-Code platform provisioning:
+**Areas Covered**
+
+* AWS VPC and networking
+* EC2 infrastructure
+* Security Groups
+* Terraform provisioning
+* Jenkins CI/CD pipelines
+* Docker containerization
+* Kubernetes deployments
+* Ansible configuration management
+* Prometheus monitoring
+* Grafana dashboards
+* Linux administration and troubleshooting
+
+<br>
+
+### 4. ☁️ Terraform AWS Infrastructure
+
+`Terraform` `AWS` `VPC` `EC2` `S3` `DynamoDB`
+
+Infrastructure-as-Code implementation focused on creating repeatable and manageable AWS infrastructure.
+
+**Key Areas**
+
+* VPC configuration
+* Public/private networking
+* EC2 provisioning
+* Security Groups
+* Terraform variables and outputs
+* Reusable infrastructure structure
+* Remote state concepts
+* S3 state storage
+* DynamoDB state locking
+
+<br>
+
+### 5. 🔧 Ansible Infrastructure Automation
+
+`Ansible` `AWS EC2` `Docker` `Nginx` `Linux`
+
+Configuration-management automation focused on reducing repetitive server administration tasks.
+
+**Key Areas**
+
+* Remote server configuration
+* Ansible playbooks
+* Role-based automation
+* Docker installation
+* Nginx configuration
+* Idempotent automation
+* Reusable Ansible roles
+* Linux server management
+
+<br>
+
+### 6. 🔄 Multi-Environment CI/CD Pipeline
+
+`Jenkins` `Docker` `AWS EC2` `GitHub`
+
+CI/CD practice focused on understanding application promotion across multiple environments.
 
 ```text
 GitHub
    ↓
 Jenkins
    ↓
-Terraform
+Docker Build
    ↓
-AWS VPC
-   ├── Public Subnet
-   ├── Route Tables
-   ├── Security Groups
-   ├── EC2
-   ├── Application Load Balancer
-   ├── Target Group
-   └── Remote State
-        ├── S3
-        └── DynamoDB Lock
+Development
+   ↓
+Staging
+   ↓
+Production
 ```
 
-### 🔗 PROJECT
+**Key Areas**
 
-**[View Terraform AWS Infrastructure →](https://github.com/amitd1299/terraform-jenkins-aws-infra)**
+* Jenkins pipeline automation
+* Docker image builds
+* GitHub integration
+* Environment-based deployments
+* Deployment promotion
+* Manual approval concepts
+* AWS EC2 application deployment
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=2&width=1000"/>
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=1000" width="100%"> </div>
 
-## 🔧 04 — ANSIBLE INFRASTRUCTURE AUTOMATION
+## 🏆 Certification
 
-### `Ansible • AWS EC2 • Docker • Nginx`
-
-Automation covering:
-
-* Multi-server configuration
-* Role-based playbooks
-* Docker installation
-* Nginx configuration
-* Idempotent automation
-* Reusable Ansible roles
-
-### 🔗 PROJECT
-
-**[View Ansible Automation →](https://github.com/amitd1299/ansible-infrastructure-automation)**
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=3&width=1000"/>
-</div>
-
-<br>
-
-# 🌐 DEVOPS DELIVERY MODEL
+[AWS Certified](https://img.shields.io/badge/AWS%20Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <div align="center">
 
-```mermaid
-flowchart TD
-    S[📂 SOURCE<br/>GitHub] --> B[⚙️ BUILD/CI<br/>Jenkins]
-    B --> Q[🔍 QUALITY<br/>SonarQube]
-    Q --> C[🐳 CONTAINER<br/>Docker]
-    C --> A[📥 ARTIFACT<br/>Nexus]
-    A --> O[☸️ ORCHESTRATE<br/>Kubernetes / K3s]
-    O --> T[🌐 TRAFFIC<br/>Traefik]
-    T --> M[📊 MONITOR<br/>Prometheus / Grafana]
-    M --> R[🚀 RELEASED]
-
-    classDef node fill:#0d0d0d,stroke:#00F7FF,stroke-width:1.5px,color:#ffffff,rx:6,ry:6;
-    class S,B,Q,C,A,O,T,M,R node;
-```
+### ☁️ AWS Certified Solutions Architect – Associate
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=3&width=1000"/>
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=1000" width="100%"> </div>
 
-<br>
-
-# 📈 GITHUB ANALYTICS
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amitd1299&show_icons=true&theme=dark&hide_border=true&bg_color=000000&rank_icon=github&icon_color=00F7FF&title_color=00F7FF&text_color=ffffff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amitd1299&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitd1299&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00F7FF&text_color=ffffff" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitd1299&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=amitd1299&theme=dark&hide_border=true&background=000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+<img src="https://streak-stats.demolab.com?user=amitd1299&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <br>
 
-# 🐍 CONTRIBUTION ACTIVITY
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/amitd1299/amitd1299/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%">
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=3&width=1000"/>
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=1000" width="100%"> </div>
 
-<br>
-
-# 🏆 CERTIFICATION
+## 🧠 DevOps Mindset
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20%E2%80%93%20Associate-000000?style=for-the-badge&logoWidth=18&logo=amazonaws&logoColor=FF9900"/>
-
-<br><br>
-
-**AWS Certified Solutions Architect – Associate**
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=3&width=1000"/>
-</div>
-
-<br>
-
-# 🧠 DEVOPS MINDSET
 
 ```text
-                 ┌───────────────┐
-                 │    BUILD      │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │   AUTOMATE    │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │    DEPLOY     │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │    MONITOR    │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │ TROUBLESHOOT  │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │    IMPROVE    │
-                 └───────────────┘
+        BUILD
+          ↓
+      AUTOMATE
+          ↓
+       TEST
+          ↓
+      DEPLOY
+          ↓
+      MONITOR
+          ↓
+   TROUBLESHOOT
+          ↓
+      IMPROVE
+          ↓
+         🚀
 ```
 
-<div align="center">
-
-> **"Don't just deploy applications. Build the systems that deliver them."**
+> **"Build it. Automate it. Break it. Fix it. Improve it."**
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=3&width=1000"/>
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=1000" width="100%"> </div>
 
-<br>
-
-# 📫 CONNECT
+## 📫 Connect With Me
 
 <div align="center">
-
-<a href="https://github.com/amitd1299">
-<img src="https://img.shields.io/badge/GitHub-Amit%20Dorwekar-000000?style=for-the-badge&logoWidth=18&logo=github&logoColor=ffffff"/>
-</a>
 
 <a href="https://www.linkedin.com/in/amit-dorwekar">
-<img src="https://img.shields.io/badge/LinkedIn-Amit%20Dorwekar-000000?style=for-the-badge&logoWidth=18&logo=linkedin&logoColor=00A3FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dorwekar2000@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/amitd1299">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
@@ -459,10 +392,8 @@ flowchart TD
 
 </div>
 
-<br>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:000000&height=150&section=footer&text=AUTOMATE%20%7C%20DEPLOY%20%7C%20MONITOR&fontSize=18&fontColor=00F7FF&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
